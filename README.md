@@ -8,3 +8,5 @@ Made with [Bootstrap Studio](https://bootstrapstudio.io/).
 
 - https://i.cs.hku.hk/~shuang
 - https://web.hku.hk/~vicw0ng
+- https://vicw0ng.live
+- https://vicw0ng.herokuapp.com/index.html
