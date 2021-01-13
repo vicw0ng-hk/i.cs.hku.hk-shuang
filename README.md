@@ -1,4 +1,4 @@
-# i.cs.hku.hk-shuang
+# mysite
 
 My website at [The Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). 
 
